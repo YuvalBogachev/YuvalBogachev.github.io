@@ -1,0 +1,4 @@
+baseURL = 'http://yuvalbogachev.com/'
+languageCode = 'en-us'
+title = 'My Website'
+theme = 'lugo'
